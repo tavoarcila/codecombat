@@ -167,7 +167,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     commit_msg: "Enviar mensaje"
     version_history: "Historial de Versiones"
     version_history_for: "Historial de Versiones para: "
-    select_changes: "Selcciona dos cambios abajo para ver la diferencia"
+    select_changes: "Selecciona dos cambios abajo para ver la diferencia"
     undo_prefix: "Deshacer"
     undo_shortcut: "(Ctrl+Z)"
     redo_prefix: "Rehacer"
